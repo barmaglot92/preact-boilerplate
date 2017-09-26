@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "module": "commonjs",
+    "jsx": "react",
+    "jsxFactory": "h",
+    "target": "es5",
+    "strict": true
+  },
+  "include": ["src/*.ts", "src/*.tsx"]
+}
